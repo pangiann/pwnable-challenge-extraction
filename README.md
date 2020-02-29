@@ -19,6 +19,6 @@ chmod +x extpwn
 
 # Usage
 ```bash
-./extpwn <challenge's-link-address> <challenge's-number>
+./extpwn <challenge-link-address> <challenge-number>
 ```
 e.g. ./extpwn https://pwnable.xyz/redisfiles/challenge_47.gz 47
