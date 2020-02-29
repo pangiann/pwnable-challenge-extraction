@@ -16,6 +16,6 @@ git clone https://github.com/pangiann/pwnable-challenge-extraction.git
 
 # Usage
 ```bash
-./extpwn <challenge-link-address> <challenge-number>
+./extpwn.sh <challenge-link-address> <challenge-number>
 ```
-e.g. ./extpwn https://pwnable.xyz/redisfiles/challenge_47.gz 47
+e.g. ./extpwn.sh https://pwnable.xyz/redisfiles/challenge_47.gz 47
