@@ -10,7 +10,7 @@ Author: pangiann
 # Installing
   - Download extpwn script
 ```bash
-git clone https://github.com/pangiann/pwnable-challenge-extraction 
+git clone https://github.com/pangiann/pwnable-challenge-extraction.git 
 ```
   - Make it executable
 ```bash
