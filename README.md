@@ -12,10 +12,7 @@ Author: pangiann
 ```bash
 git clone https://github.com/pangiann/pwnable-challenge-extraction.git 
 ```
-  - Make it executable
-```bash
-chmod +x extpwn
-```
+
 
 # Usage
 ```bash
